@@ -43,7 +43,7 @@
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
-    "create-react-class": "^15.6.2",
+    "create-react-class": "^15.7.0",
     "css-loader": "^0.28.8",
     "exports-loader": "^0.6.4",
     "file-loader": "^1.1.6",
@@ -54,7 +54,7 @@
     "mock-require": "^2.0.2",
     "nightwatch": "^0.9.19",
     "prismjs": "^1.9.0",
-    "prop-types": "^15.6.0",
+    "prop-types": "^15.7.2",
     "raw-loader": "^0.5.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
@@ -63,7 +63,7 @@
     "style-loader": "^0.19.1",
     "uglifyjs-webpack-plugin": "^1.1.6",
     "webpack": "^3.10.0",
-    "webpack-dev-server": "^2.9.6"
+    "webpack-dev-server": "^2.11.5"
   },
   "dependencies": {
     "highcharts": "^8.1.1"
